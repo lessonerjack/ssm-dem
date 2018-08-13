@@ -7,3 +7,4 @@ build/
 rebel.xml
 out/
 *.log
+*.class
